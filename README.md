@@ -340,10 +340,10 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **Dev Datya Pratap Bansal**
 
-- 📧 Email: [your.email@example.com]
-- 💼 LinkedIn: [linkedin.com/in/yourprofile]
-- 🐙 GitHub: [github.com/yourusername]
-- 🌐 Portfolio: [your-portfolio.vercel.app]
+- 📧 Email: dev25bansal@gmail.com
+- 💼 LinkedIn: linkedin.com/in/dev-bansal-606021375
+- 🐙 GitHub: github.com/dev25bansal-ops
+
 
 ---
 
