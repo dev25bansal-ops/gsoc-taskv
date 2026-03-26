@@ -1,0 +1,33 @@
+# ML4SCI QMLHEP Task V - Requirements
+# 
+# Install with: pip install -r requirements.txt
+
+# Core dependencies
+numpy>=1.21.0
+pandas>=1.3.0
+scipy>=1.7.0
+tqdm>=4.60.0
+
+# PyTorch (CPU version - change for GPU)
+torch>=2.0.0
+torchvision>=0.15.0
+
+# PyTorch Geometric
+torch-geometric>=2.3.0
+torch-scatter>=2.1.0
+torch-sparse>=0.6.0
+torch-cluster>=1.6.0
+
+# Machine learning
+scikit-learn>=1.0.0
+
+# Visualization
+matplotlib>=3.4.0
+seaborn>=0.11.0
+
+# Data handling
+h5py>=3.6.0
+pyyaml>=6.0
+
+# Utilities
+tensorboard>=2.8.0
